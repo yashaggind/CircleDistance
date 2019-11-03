@@ -40,7 +40,6 @@ class UserRepositoryTest {
                     userArrayList.add(userEntity)
                 }
             }
-
         }
         catch (e: Exception) {
             e.printStackTrace()
