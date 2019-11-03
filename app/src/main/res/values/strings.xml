@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Great_circle_distance</string>
+
+    <string name="text_user_name">User Name</string>
+    <string name="text_user_id">User Id</string>
+    <string name="text_user_distance">User distance</string>
+    <string name="text_kilometre">Km</string>
+</resources>
